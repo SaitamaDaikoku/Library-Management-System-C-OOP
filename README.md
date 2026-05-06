@@ -1,4 +1,4 @@
-# Library Management System 📚
+# Library Management System 
 
 A simple console-based Library Management System built using C++.
 This project manages books, users, and issue/return operations using OOP concepts.
